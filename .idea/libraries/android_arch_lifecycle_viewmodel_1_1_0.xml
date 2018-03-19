@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="android.arch.lifecycle:viewmodel-1.1.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.android/build-cache/8f876574e72ca9b93418fdbf0e9bcd5e713469a7/output/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.android/build-cache/8f876574e72ca9b93418fdbf0e9bcd5e713469a7/output/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

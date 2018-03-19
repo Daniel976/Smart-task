@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Smart-Task.iml" filepath="$PROJECT_DIR$/Smart-Task.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Smart-task.iml" filepath="$PROJECT_DIR$/Smart-task.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>

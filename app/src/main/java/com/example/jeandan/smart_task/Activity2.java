@@ -172,7 +172,7 @@ public class Activity2 extends AppCompatActivity  implements SensorEventListener
             yAccel = yNewAccel;
             zAccel = zNewAccel;
 
-            if (yNewAccel > 8 && camera == true) {
+            if (yNewAccel >=8 || xNewAccel >=8 && camera == true) {
                 //On prend la photo
 
                 /*Intent intent = new Intent(MediaStore.ACTION_IMAGE_CAPTURE);

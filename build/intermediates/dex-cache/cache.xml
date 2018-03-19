@@ -3,201 +3,291 @@
 
     <item
         is-multidex="true"
-        jar="C:\Users\jeandan\.gradle\caches\modules-2\files-2.1\android.arch.core\common\1.1.0\8007981f7d7540d89cd18471b8e5dcd2b4f99167\common-1.1.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="27.0.3"
-        sha1="8007981f7d7540d89cd18471b8e5dcd2b4f99167">
-        <dex dex="Z:\Android\Smart-Task\app\build\intermediates\transforms\dex\debug\folders\1000\10\common-1.1.0_030be2045f47dd1509d8778a0c7f6e2a670bba92\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\jeandan\.android\build-cache\a7c5679e7743395e44e0ed09539daf25dc757a6f\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="27.0.3"
-        sha1="1fd3ceac7f415975323d52c6c6057db409a907f6">
-        <dex dex="Z:\Android\Smart-Task\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b3d6b57c417a450420f4f1df869b6464a1e18fcd\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\jeandan\.gradle\caches\modules-2\files-2.1\android.arch.lifecycle\common\1.1.0\edf3f7bfb84a7521d0599efa3b0113a0ee90f85\common-1.1.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="27.0.3"
-        sha1="0edf3f7bfb84a7521d0599efa3b0113a0ee90f85">
-        <dex dex="Z:\Android\Smart-Task\app\build\intermediates\transforms\dex\debug\folders\1000\10\common-1.1.0_a6b9fbe47c108989dd52e69c51bd8f1c7c233169\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\jeandan\.android\build-cache\97ad21f3af1f66479b89d678dae3ceccf6af2a99\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="27.0.3"
-        sha1="5c66801c7ac6def4ffef7859925b12ce7940438e">
-        <dex dex="Z:\Android\Smart-Task\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4ac49ce37a6cd25de16dbe39f90f713b7fa41a6b\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="Z:\Android\Smart-Task\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="27.0.3"
-        sha1="7eb361992e45f83968880f398b437c224d903bf4">
-        <dex dex="Z:\Android\Smart-Task\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_4350ffb82660822a32189dd56d357550dc8ebec1\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\jeandan\.android\build-cache\5f29cc0039f183187e579dc28dd89756d39d140a\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="27.0.3"
-        sha1="858c1e21a2570a2416153aecab70d27a11965e79">
-        <dex dex="Z:\Android\Smart-Task\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_69bc7201809d9da65c405c816ac9e7e1a7a6265a\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\jeandan\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\27.1.0\39ded76b5e1ce1c5b2688e1d25cdc20ecee32007\support-annotations-27.1.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="27.0.3"
-        sha1="39ded76b5e1ce1c5b2688e1d25cdc20ecee32007">
-        <dex dex="Z:\Android\Smart-Task\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-27.1.0_51f8c7aeb2dd0f9ff184a74593a27a43ba0102f7\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\jeandan\.android\build-cache\a1cb8650d91468662d00c1360a6d4a12754656c0\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="27.0.3"
-        sha1="755c70a5a4e439030f67311dbafaa67b111377a6">
-        <dex dex="Z:\Android\Smart-Task\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1fc4986d584c8acbf490df6011b32a48d29303d1\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\jeandan\.android\build-cache\a2895c3689b0cf123540928135133aebd194669d\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="27.0.3"
-        sha1="f7e3ff2cb093a99c8dc1ff3d50c176019fa5d7c1">
-        <dex dex="Z:\Android\Smart-Task\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f62e8b286643e18cec7f45b3177e4d7e03a6b091\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\jeandan\.android\build-cache\aad4265f3f868491a1567514d3c8ddd1218750cd\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="27.0.3"
-        sha1="6f209b73a488f358673f39317df394bd7a99c05e">
-        <dex dex="Z:\Android\Smart-Task\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_681c315fe1d3a263a7e361a38590290e5f8d1aad\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\jeandan\.android\build-cache\05d0af129336cab5209d41848b7858801c579ffc\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="27.0.3"
-        sha1="668473027f40fa0cdd5b2db78ba02d676ffd3a2b">
-        <dex dex="Z:\Android\Smart-Task\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e1126670eaa59bc67a3e2ececacb90950357ec10\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\jeandan\.android\build-cache\bf628cb6a363559b22d7900fb02c36f9506a9b15\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="27.0.3"
-        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
-        <dex dex="Z:\Android\Smart-Task\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_72f17dd8846b75e6a4f11aff38187d49403db38b\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\jeandan\.android\build-cache\afd986d45269ab83528b8b58d7aabd4ac932bfc6\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="27.0.3"
-        sha1="705378853cb9f264315d7a0a8edb6743d72efe9b">
-        <dex dex="Z:\Android\Smart-Task\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7dcfc91aaf94bde686aaaafd111fa18038976cf8\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\jeandan\.android\build-cache\3e409ccd92fa0f3715cbe0869ad30fbc8b3513c7\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="27.0.3"
-        sha1="fe6c8fbfeeb1454c3eb605c9b66662991681fd55">
-        <dex dex="Z:\Android\Smart-Task\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_73d20a3062ef9b4ebff01fa1a6ef3d57a936f88f\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\android-sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="27.0.3"
-        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
-        <dex dex="Z:\Android\Smart-Task\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.2_016b5f8e2e4590e18881976af4fccee55ccea251\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\jeandan\.android\build-cache\22129d26f1ee9dfbc1df153f1d46e00707d745d1\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="27.0.3"
-        sha1="9a2ea9818b2f556b6663c0e7376bd664ee6c7550">
-        <dex dex="Z:\Android\Smart-Task\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9693c29c3d615601562904cb76065641ac07c504\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\jeandan\.android\build-cache\d4f99125287cbfa0c214cc20114e66e4d82c31c9\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="27.0.3"
-        sha1="e2bbe48deed35056023eed2cdc0cc92e5c7d3617">
-        <dex dex="Z:\Android\Smart-Task\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7f44ceb3a618c2626437a37b47606b66a67db4c4\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\jeandan\.android\build-cache\39b582eb9652c9f301bed4b077d8d76e50b85a5c\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="27.0.3"
-        sha1="3d46095629eedbd5b79b4d129428fc499473a73b">
-        <dex dex="Z:\Android\Smart-Task\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0adf108fdb5db91021f564977fb710b652bdd294\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\jeandan\.android\build-cache\9526394f7b15cf6ec3e8eb3357dde26ae1bc8092\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="27.0.3"
-        sha1="8a9fd7c97f1d13f97f3b52f9d2e54cd857d5acf9">
-        <dex dex="Z:\Android\Smart-Task\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3c4ca52ce3be79f9bb00aaff57df09a015886e3c\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\jeandan\.android\build-cache\86abddb6457b19e11c0152640f8f28b250f9244f\output\jars\classes.jar"
+        jar="C:\Users\Utilisateur\.android\build-cache\e084e531e6fcbb7adc1e975b3e3adfaf53b5ac3a\output\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="27.0.3"
         sha1="a4f81a342ac6bace97ad1420eb47fc11ab749a03">
-        <dex dex="Z:\Android\Smart-Task\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c72f8a59c9def78ee3c1c978b89e3ca4b4325c0b\classes.dex" />
+        <dex dex="C:\Users\Utilisateur\AndroidStudioProjects\Smart-task\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_405a9c49875bc176492f3bd94ec0e7b169e3e0ba\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="Z:\Android\Smart-Task\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jar="C:\Users\Utilisateur\.android\build-cache\5ec1f4f28139bcecc5949bca5666a6f2b1387759\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="e1625e48a836779b5fa141d22e5d05563aaccc9a">
+        <dex dex="C:\Users\Utilisateur\AndroidStudioProjects\Smart-task\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d0d9c1bcf6d14b09bc4abfcd42b02a24146711e2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Utilisateur\.android\build-cache\c566ab1f1c4134a27af2768c2bd0a738358f3d8f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="668473027f40fa0cdd5b2db78ba02d676ffd3a2b">
+        <dex dex="C:\Users\Utilisateur\AndroidStudioProjects\Smart-task\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7d78cfd174173bf551aec8815935391f38d6edbe\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Utilisateur\.android\build-cache\c3440e257b5a922e13cefb38b65c12d8809baa4a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="364364bf77b4a71afc5930fc3ae57b3f0eea637c">
+        <dex dex="C:\Users\Utilisateur\AndroidStudioProjects\Smart-task\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2b3e346bf8f2cb6996407d2f1049f06647e1293e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Utilisateur\.android\build-cache\ed69e1877b4a95ae77ca49e81d65691afdd9d503\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="9a2ea9818b2f556b6663c0e7376bd664ee6c7550">
+        <dex dex="C:\Users\Utilisateur\AndroidStudioProjects\Smart-task\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2d41b33f0e1192bbe1cf5b166e1e62b3e253d52a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Utilisateur\.android\build-cache\8f876574e72ca9b93418fdbf0e9bcd5e713469a7\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="1fd3ceac7f415975323d52c6c6057db409a907f6">
+        <dex dex="C:\Users\Utilisateur\AndroidStudioProjects\Smart-task\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_26527de6a83961b4aa74cf19fc63bbf3a68fcbcb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Utilisateur\.android\build-cache\089cee57a38b84384b5964888afd45bf8f5d8581\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\Utilisateur\AndroidStudioProjects\Smart-task\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7d74bc6f9a24a2d2d6051986f531d8f11931a89f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Utilisateur\.android\build-cache\3bfc39df3bd90013ebcf1d2394a9e015285206a6\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="b5b6af36bacf1d812cd3dc45f9dcab9ea471ed91">
+        <dex dex="C:\Users\Utilisateur\AndroidStudioProjects\Smart-task\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4bde7191e4eea952d69af30765d7da3227a857f2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Utilisateur\.android\build-cache\638145fdaa879915b35e9a8803b1a229cfb4024d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="755c70a5a4e439030f67311dbafaa67b111377a6">
+        <dex dex="C:\Users\Utilisateur\AndroidStudioProjects\Smart-task\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ac1a8dd967807e0403030c52d7ef443724419afc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Utilisateur\.android\build-cache\835779273f96b32ccc93951b77c12202e03415a5\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="6f209b73a488f358673f39317df394bd7a99c05e">
+        <dex dex="C:\Users\Utilisateur\AndroidStudioProjects\Smart-task\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ce289f95ecf492b340c33d0707bdf4d795e005d3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Utilisateur\.android\build-cache\a86092df416e41bf2a765c99dd1008e73e3aa441\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="2430e711762a749feb00b3d64858ca4768251b9d">
+        <dex dex="C:\Users\Utilisateur\AndroidStudioProjects\Smart-task\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4ad4c63eecaedf65dd55a022db45a7f2e7ab44c6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Utilisateur\.android\build-cache\ed6a40ae6700579b3e0550927e44a167e0d72d40\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="3d46095629eedbd5b79b4d129428fc499473a73b">
+        <dex dex="C:\Users\Utilisateur\AndroidStudioProjects\Smart-task\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_881d6590728e5690a6790fd4fd45ffb939c62d8b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Utilisateur\.android\build-cache\3f776dce3dd4c8894407ce3820d97c61cd546399\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="858c1e21a2570a2416153aecab70d27a11965e79">
+        <dex dex="C:\Users\Utilisateur\AndroidStudioProjects\Smart-task\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6ed729b4453a0b82fa17feb45aea35806857a098\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Utilisateur\.android\build-cache\633b70dd33db70b44fb606dd02f29329c629d274\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="4b685077cdb08cf7ae8b61afd1fe910e47d91b9a">
+        <dex dex="C:\Users\Utilisateur\AndroidStudioProjects\Smart-task\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b4200e2aabc7c8d33cb21acc51d8d97846c9c89c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Utilisateur\AndroidStudioProjects\Smart-task\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
         jumboMode="true"
         optimize="true"
         revision="27.0.3"
         sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
-        <dex dex="Z:\Android\Smart-Task\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_e0111842b2a6f33b257e8b57b5a02904ea88fef1\classes.dex" />
+        <dex dex="C:\Users\Utilisateur\AndroidStudioProjects\Smart-task\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_8e92392250f2f33970408d3b0d505bae2e9ab875\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\jeandan\.android\build-cache\4d7c7bd1466ec7df039de8c8b4ee7b248fc498c9\output\jars\classes.jar"
+        jar="C:\Users\Utilisateur\.gradle\caches\modules-2\files-2.1\android.arch.lifecycle\common\1.1.0\edf3f7bfb84a7521d0599efa3b0113a0ee90f85\common-1.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="0edf3f7bfb84a7521d0599efa3b0113a0ee90f85">
+        <dex dex="C:\Users\Utilisateur\AndroidStudioProjects\Smart-task\app\build\intermediates\transforms\dex\debug\folders\1000\10\common-1.1.0_812a626d0eef2f1d872544d48ec9301bd9bdbe61\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Utilisateur\.android\build-cache\0b62a35fb6ffed9e53d9da939a1c0400b6292138\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="3ac08c35419ab7cf9146969de471768dbe502f0f">
+        <dex dex="C:\Users\Utilisateur\AndroidStudioProjects\Smart-task\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2fef81fb6ae4b492fa4a3d51d9250961f4114ec4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Utilisateur\.android\build-cache\98477f450e016bd786c2aae8656d485d0b94c8c6\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="fe6c8fbfeeb1454c3eb605c9b66662991681fd55">
+        <dex dex="C:\Users\Utilisateur\AndroidStudioProjects\Smart-task\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_98a5448e6e23045ebc1bddf5001d6fecc0ab08cf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Utilisateur\.android\build-cache\467a306f464c28be35c5b5a932a4890c6a9dfbfd\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="8a9fd7c97f1d13f97f3b52f9d2e54cd857d5acf9">
+        <dex dex="C:\Users\Utilisateur\AndroidStudioProjects\Smart-task\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e146d6d86d7b38f4377e10ee1a3ce36a74c8e89f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Utilisateur\.android\build-cache\54ce72e6d2ea07a2524268b55d114878c627792e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="e5b429c146094a612134910688d169ec08deeefb">
+        <dex dex="C:\Users\Utilisateur\AndroidStudioProjects\Smart-task\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_55d9c7e690dafcb27d2e3bcd6767b4ae6e4e5bf7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Utilisateur\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\27.1.0\39ded76b5e1ce1c5b2688e1d25cdc20ecee32007\support-annotations-27.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="39ded76b5e1ce1c5b2688e1d25cdc20ecee32007">
+        <dex dex="C:\Users\Utilisateur\AndroidStudioProjects\Smart-task\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-27.1.0_d8f87a2b7df1fcfa262d807eceac12632f733e21\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Utilisateur\AppData\Local\Android\Sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\Utilisateur\AndroidStudioProjects\Smart-task\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.2_01a8bebbafb0e53bcc0857357dd0e0d05f980ed1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Utilisateur\.android\build-cache\6797a8e4219dcf8f6c63993276a7b8dedd71c4f4\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="70ffe00aaf049893f59d1dad57bd82992faa38ef">
+        <dex dex="C:\Users\Utilisateur\AndroidStudioProjects\Smart-task\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_416b7957e49d7d0228dde4a2232e1c59731dba5a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Utilisateur\.android\build-cache\b6804349c916349fec82488fb3375d9c75a4bfb7\output\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="27.0.3"
         sha1="71d380aeac037e63bab7bda2ba211777e16a2f42">
-        <dex dex="Z:\Android\Smart-Task\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_bd218646f3db1ce19664b8c6ab0e1550270d5ae7\classes.dex" />
+        <dex dex="C:\Users\Utilisateur\AndroidStudioProjects\Smart-task\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1f656cbd90b6ac2c8657af85ed540f0a50ccb744\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Utilisateur\.android\build-cache\3c79ead01bc4080f9dbbbb763335e321efc8b9c0\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="e2bbe48deed35056023eed2cdc0cc92e5c7d3617">
+        <dex dex="C:\Users\Utilisateur\AndroidStudioProjects\Smart-task\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_679ef6bcf214edef0b99841a17f2a5705ee605a2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Utilisateur\.gradle\caches\modules-2\files-2.1\android.arch.core\common\1.1.0\8007981f7d7540d89cd18471b8e5dcd2b4f99167\common-1.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="8007981f7d7540d89cd18471b8e5dcd2b4f99167">
+        <dex dex="C:\Users\Utilisateur\AndroidStudioProjects\Smart-task\app\build\intermediates\transforms\dex\debug\folders\1000\10\common-1.1.0_0e6bc51f582b8697d900079d4f443d6cf3e01611\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Utilisateur\.android\build-cache\6e549809f011709ad07c01ac629e78b3a83c24a8\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="ed87ccdcb70c17d71ba4e6e4ac16afa62d3c49fb">
+        <dex dex="C:\Users\Utilisateur\AndroidStudioProjects\Smart-task\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7ba4863e9f41c419c8b0dbfcef2a3857c8fa19b1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Utilisateur\.android\build-cache\c5dd4bd9dfef799ceef4da046322fd649e23a9d4\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="5c66801c7ac6def4ffef7859925b12ce7940438e">
+        <dex dex="C:\Users\Utilisateur\AndroidStudioProjects\Smart-task\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f8c3dd82f4ee6634484b4db23b90f41a56b71eeb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Utilisateur\.android\build-cache\414fb0ba095276b239b0fb189cf3925b8facf8ac\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="705378853cb9f264315d7a0a8edb6743d72efe9b">
+        <dex dex="C:\Users\Utilisateur\AndroidStudioProjects\Smart-task\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b3a35fb922a6ed200ef03571970a15eef175f461\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Utilisateur\AndroidStudioProjects\Smart-task\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="7234ffc00e0e297d435605a6d4f7c435ad28086d">
+        <dex dex="C:\Users\Utilisateur\AndroidStudioProjects\Smart-task\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_2140bd635bee7324d9bbb63186ea0b8d4dceac48\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Utilisateur\.android\build-cache\7fca0eb4ceb9eb3b549a0aeada2c409d19d65434\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="43e9789bd3240271265ab30ce1be9f224843f5a8">
+        <dex dex="C:\Users\Utilisateur\AndroidStudioProjects\Smart-task\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_17a41c947ca1e8936a29f4dc54761747168e20d4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Utilisateur\.android\build-cache\909d37a5791130c8f1c4de775ff42715dae094e7\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="f7e3ff2cb093a99c8dc1ff3d50c176019fa5d7c1">
+        <dex dex="C:\Users\Utilisateur\AndroidStudioProjects\Smart-task\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_895871e48cc9c07f05f65478f4dd66c6d230a7ef\classes.dex" />
     </item>
 
 </items>
